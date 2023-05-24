@@ -1,0 +1,497 @@
+{
+    "characters": [
+    {
+        "Goku": {
+          "name": "Goku",
+          "health": 92,
+          "attack": 91,
+          "defense": 97,
+          "kiUsage": 89,
+          "endurance": 94,
+          "stamina": 89
+        }
+      },
+      {
+        "Vegeta": {
+          "name": "Vegeta",
+          "health": 90,
+          "attack": 97,
+          "defense": 80,
+          "kiUsage": 82,
+          "endurance": 97,
+          "stamina": 92
+          }
+        },
+   {
+        "Broly": {
+          "name": "Broly",
+          "health": 90,
+          "attack": 91,
+          "defense": 88,
+          "kiUsage": 90,
+          "endurance": 97,
+          "stamina": 92
+          }
+        },
+      {
+        "Goku Black": {
+          "name": "Vegeta",
+          "health": 79,
+          "attack": 82,
+          "defense": 81,
+          "kiUsage": 90,
+          "endurance": 89,
+          "stamina": 81
+          }
+        },
+      {
+        "Piccolo": {
+          "name": "Piccolo",
+          "health": 63,
+          "attack": 65,
+          "defense": 69,
+          "kiUsage": 82,
+          "endurance": 49,
+          "stamina": 63
+          }        
+      },
+  {
+        "Frieza": {
+          "name": "Frieza",
+          "health": 96,
+          "attack": 95,
+          "defense": 90,
+          "kiUsage": 97,
+          "endurance": 91,
+          "stamina": 94
+          }
+        },
+  {
+        "Gohan": {
+          "name": "Gohan",
+          "health": 92,
+          "attack": 93,
+          "defense": 89,
+          "kiUsage": 90,
+          "endurance": 92,
+          "stamina": 91
+          }
+        },
+      {
+       "Gotenks": {
+         "name": "Gotenks",
+        "health": 59,
+        "attack": 50,
+       "defense": 45,
+        "kiUsage": 39,
+       "endurance": 59,
+        "stamina": 60
+    }
+        },
+      {
+        "Android 17": {
+          "name": "Android 17",
+          "health": 73,
+          "attack": 71,
+          "defense": 79,
+          "kiUsage": 93,
+          "endurance": 82,
+          "stamina": 100
+        }
+      },
+      {
+        "Perfect Cell": {
+          "name": "Perfect Cell",
+          "health": 43,
+          "attack": 95,
+          "defense": 90,
+          "kiUsage": 85,
+          "endurance": 90,
+          "stamina": 85
+        }
+      },
+      {
+        "Buuhan": {
+          "name": "Super Buu (Gohan Absorbed)",
+          "health": 64,
+          "attack": 59,
+          "defense": 68,
+          "kiUsage": 70,
+          "endurance": 100,
+          "stamina": 94
+        }
+      },
+      {
+        "Vegito": {
+          "name": "Vegito",
+          "health": 94,
+          "attack": 92,
+          "defense": 96,
+          "kiUsage": 100,
+          "endurance": 95,
+          "stamina": 94
+          }
+        },
+        {
+          "Hit": {
+            "name": "Hit",
+            "health": 82,
+            "attack": 80,
+            "defense": 62,
+            "kiUsage": 71,
+            "endurance": 80,
+            "stamina": 84
+          }
+        },
+        {
+          "Beerus": {
+            "name": "Beerus",
+            "health": 98,
+            "attack": 100,
+            "defense": 100,
+            "kiUsage": 100,
+            "endurance": 100,
+            "stamina": 100
+          }
+        },
+        {
+          "Whis": {
+            "name": "Whis",
+            "health": 100,
+            "attack": 100,
+            "defense": 100,
+            "kiUsage": 100,
+            "endurance": 100,
+            "stamina": 100
+          }
+        },
+      {
+        "Merged Zamasu": {
+          "name": "Merged Zamasu",
+          "health": 85,
+          "attack": 89,
+          "defense": 81,
+          "kiUsage": 100,
+          "endurance": 92,
+          "stamina": 81
+        }
+       },
+        {
+          "Kefla": {
+            "name": "Kefla",
+            "health": 71,
+            "attack": 79,
+            "defense": 64,
+            "kiUsage": 82,
+            "endurance": 61,
+            "stamina": 87
+        }
+      },
+        {
+          "Baby Vegeta": {
+            "name": "Baby Vegeta",
+            "health": 87,
+            "attack": 80,
+            "defense": 73,
+            "kiUsage": 64,
+            "endurance": 79,
+            "stamina": 83
+        }
+      },
+        {
+          "Cooler": {
+            "name": "Cooler",
+            "health": 67,
+            "attack": 74,
+            "defense": 72,
+            "kiUsage": 61,
+            "endurance": 70,
+            "stamina": 71
+        }
+      },
+        {
+          "Janemba": {
+            "name": "Janemba",
+            "health": 86,
+            "attack": 82,
+            "defense": 60,
+            "kiUsage": 75,
+            "endurance": 92,
+            "stamina": 82
+        }
+        },
+        {
+          "Gogeta": {
+            "name": "Gogeta",
+            "health": 98,
+            "attack": 99,
+            "defense": 94,
+            "kiUsage": 100,
+            "endurance": 97,
+            "stamina": 97
+        }
+      },
+        {
+          "Lord Slug": {
+            "name": "Lord Slug",
+            "health": 59,
+            "attack": 41,
+            "defense": 40,
+            "kiUsage": 32,
+            "endurance": 53,
+            "stamina": 48
+        }
+      },
+        {
+          "Tapion": {
+            "name": "Tapion",
+            "health": 69,
+            "attack": 78,
+            "defense": 64,
+            "kiUsage": 54,
+            "endurance": 89,
+            "stamina": 76
+        }
+      },
+        {
+          "Shallot": {
+            "name": "Shallot",
+            "health": 81,
+            "attack": 83,
+            "defense": 78,
+            "kiUsage": 72,
+            "endurance": 87,
+            "stamina": 90
+        }
+      },
+        {
+          "SSJ 4 Gogeta": {
+            "name": "SSJ 4 Gogeta",
+            "health": 94,
+            "attack": 100,
+            "defense": 100,
+            "kiUsage": 100,
+            "endurance": 93,
+            "stamina": 95
+         
+        }
+      },
+        {
+          "Trunks": {
+            "name": "Trunks",
+            "health": 63,
+            "attack": 72,
+            "defense": 71,
+            "kiUsage": 63,
+            "endurance": 91,
+            "stamina": 72
+        }
+      },
+        {
+          "Masked Man": {
+            "name": "Masked Man",
+            "health": 78,
+            "attack": 88,
+            "defense": 73,
+            "kiUsage": 93,
+            "endurance": 95,
+            "stamina": 84
+        }
+      },
+        {
+          "Omega Shenron": {
+            "name": "Omega Shenron",
+            "health": 90,
+            "attack": 89,
+            "defense": 90,
+            "kiUsage": 90,
+            "endurance": 94,
+            "stamina": 91
+        }
+      },
+      {
+        "Granolah": {
+          "name": "Granolah",
+          "health": 89,
+          "attack": 85,
+          "defense": 89,
+          "kiUsage": 81,
+          "endurance": 90,
+          "stamina": 71
+        }
+      },
+      {
+        "Gamma 2": {
+          "name": "Gamma 2",
+          "health": 73,
+          "attack": 71,
+          "defense": 64,
+          "kiUsage": 78,
+          "endurance": 82,
+          "stamina": 100
+        }
+      },
+  {
+        "Gamma 1": {
+          "name": "Gamma 1",
+          "health": 73,
+          "attack": 71,
+          "defense": 64,
+          "kiUsage": 78,
+          "endurance": 82,
+          "stamina": 100
+        }
+      },
+      {
+        "Jiren": {
+        "name": "Jiren",
+        "health": 88,
+        "attack": 89,
+        "defense": 72,
+        "kiUsage": 90,
+        "endurance": 80,
+        "stamina": 92
+        },
+        "Moro": {
+        "name": "Moro",
+        "health": 92,
+        "attack": 87,
+        "defense": 85,
+        "kiUsage": 81,
+        "endurance": 80,
+        "stamina": 92
+        },
+        "Bardock": {
+        "name": "Bardock",
+        "health": 32,
+        "attack": 21,
+        "defense": 38,
+        "kiUsage": 43,
+        "endurance": 80,
+        "stamina": 75
+        }
+        },
+        {
+          "Kid Buu": {
+          "name": "Kid Buu",
+          "health": 71,
+          "attack": 82,
+          "defense": 61,
+          "kiUsage": 100,
+          "endurance": 82,
+          "stamina": 100
+          },
+          "Cumber": {
+          "name": "Cumber",
+          "health": 89,
+          "attack": 90,
+          "defense": 90,
+          "kiUsage": 95,
+          "endurance": 95,
+          "stamina": 90
+          },
+          "SSJ 4 Goku": {
+          "name": "SSJ 4 Goku",
+          "health": 90,
+          "attack": 87,
+          "defense": 83,
+          "kiUsage": 95,
+          "endurance": 95,
+          "stamina": 95
+          }
+          },
+          {
+            "SSJ 4 Vegeta": {
+                "name": "SSJ 4 Vegeta",
+                "health": 87,
+                "attack": 92,
+                "defense": 89,
+                "kiUsage": 81,
+                "endurance": 90,
+                "stamina": 91
+            },
+            "SSJ 4 Vegito": {
+                "name": "SSJ 4 Vegito",
+                "health": 100,
+                "attack": 100,
+                "defense": 100,
+                "kiUsage": 92,
+                "endurance": 95,
+                "stamina": 94
+            },
+            "Cell Max": {
+                "name": "Cell Max",
+                "health": 90,
+                "attack": 92,
+                "defense": 75,
+                "kiUsage": 84,
+                "endurance": 90,
+                "stamina": 100
+            }
+        },
+        {
+          "Android 13": {
+          "name": "Android 13",
+          "health": 52,
+          "attack": 71,
+          "defense": 63,
+          "kiUsage": 81,
+          "endurance": 62,
+          "stamina": 100
+          }
+          },
+          {
+          "Toppo": {
+          "name": "Toppo",
+          "health": 73,
+          "attack": 71,
+          "defense": 82,
+          "kiUsage": 90,
+          "endurance": 87,
+          "stamina": 71
+          }
+          },
+          {
+          "Champa": {
+          "name": "Champa",
+          "health": 92,
+          "attack": 100,
+          "defense": 100,
+          "kiUsage": 100,
+          "endurance": 100,
+          "stamina": 100
+          }
+          },
+          {
+          "God Toppo": {
+          "name": "God Toppo",
+          "health": 90,
+          "attack": 91,
+          "defense": 75,
+          "kiUsage": 61,
+          "endurance": 81,
+          "stamina": 70
+          }
+        },
+        {
+          "Aniraza": {
+              "name": "Aniraza",
+              "health": 80,
+              "attack": 82,
+              "defense": 76,
+              "kiUsage": 85,
+              "endurance": 85,
+              "stamina": 79
+          },
+          "Zamasu": {
+              "name": "Zamasu",
+              "health": 68,
+              "attack": 71,
+              "defense": 71,
+              "kiUsage": 90,
+              "endurance": 100,
+              "stamina": 90
+          }
+      }]}
+  
+  
